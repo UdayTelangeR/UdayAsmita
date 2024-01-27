@@ -5,5 +5,7 @@ System.out.println("Hello Asmita");
 System.out.println("Hello Shreyanshi");
 System.out.println("Hello Scooby");
 System.out.println("Hello Mom and Dad  ");
+Student st = new Student();
+st.sayHi();
 }
 }
